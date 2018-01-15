@@ -1,6 +1,10 @@
 # AlphaZero_Gomoku_Cocos2d
 AlphaZero DeepLearning as back-end's RESTful APIs for Gomoku gaming AI engine, also using Cocos2d-x as front-end implementation.
 
+![Screenshot of "AlphaZeroSelfPlay"](https://raw.githubusercontent.com/yangboz/AlphaZero_Gomoku_Cocos2d/master/AlphaZero/AlphaZeroSelfPlay.jpg)
+
+Gomoku:
+
 ![Screenshot of "Gomoku"](https://raw.githubusercontent.com/yangboz/AlphaZero_Gomoku_Cocos2d/master/Cocos2D/assets/Texture/Bg_menu.png)
 
 ## References
