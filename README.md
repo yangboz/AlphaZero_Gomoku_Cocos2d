@@ -1,2 +1,2 @@
 # AlphaZero_Gomoku_Cocos2d
-AlphaZero back-end's RESTful APIs for Gomoku also using Cocos2d-x for front-end.
+AlphaZero DeepLearning as back-end's RESTful APIs for Gomoku gaming AI engine, also using Cocos2d-x as front-end implementation.
